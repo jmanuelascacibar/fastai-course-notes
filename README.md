@@ -16,11 +16,9 @@ Fastai offers an intuitive approach to deep learning, making it accessible to a 
 
 - Navigate to the relevant chapter or topic you're interested in. The folders are organized based on the course structure.
 
-- Notebooks can be run using Jupyter Notebook or Jupyter Lab. Ensure you have the required libraries installed, preferably in a virtual environment.
+- Notebooks can be run using Jupyter Notebook or Jupyter Lab. Ensure you have the required libraries installed.
 
 ## Topics Covered
-
-(Here, you can list the main topics or chapters from the course, e.g.,)
 
 Lesson 1: Practical Deep Learning for Coders 2022 (bird or forest image classifier)
 
