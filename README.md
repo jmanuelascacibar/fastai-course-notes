@@ -6,9 +6,10 @@ This repository contains detailed notes, scripts, and Jupyter notebooks from the
 
 1. [Introduction](#introduction)
 2. [Topics Covered](#topics-covered)
-3. [Contribution](#contribution)
-4. [Acknowledgements](#acknowledgements)
-5. [License](#license)
+3. [Useful Resources](#useful-resources)
+4. [Contribution](#contribution)
+5. [Acknowledgements](#acknowledgements)
+6. [License](#license)
 
 ## Introduction
 
@@ -21,6 +22,14 @@ Fastai offers an intuitive approach to deep learning, making it accessible to a 
 ## Topics Covered
 
 Lesson 1: Practical Deep Learning for Coders 2022 (bird or forest image classifier)
+
+## Useful Resources
+
+Here are some valuable resources that complement the knowledge and tools discussed in this repository:
+
+- [fastai Documentation](https://docs.fast.ai/): Official documentation for the fastai library, providing in-depth explanations and examples for each module and method.
+  
+- [timm Documentation](https://timm.fast.ai/): A collection of pre-trained models. A useful resource for anyone looking to implement state-of-the-art image models with ease.
 
 
 ## Contribution
