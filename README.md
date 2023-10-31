@@ -21,7 +21,7 @@ Fastai offers an intuitive approach to deep learning, making it accessible to a 
 
 ## Topics Covered
 
-Lesson 1: Practical Deep Learning for Coders 2022 (bird or forest image classifier)
+[Lesson 1: Practical Deep Learning for Coders 2022 (bird or forest image classifier)](L1_Getting_Started.ipynb)
 
 ## Useful Resources
 
